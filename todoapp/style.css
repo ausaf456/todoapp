@@ -1,0 +1,59 @@
+div.main{
+    background-color: cornflowerblue;
+    color: black;
+    font: 20px;
+    width: 500px;
+    height: 500px;
+display: inline-block;
+margin-left: 30%;
+margin-right: 30%;
+border-radius: 10px;
+}
+.input{
+    width: 96%;
+    
+    margin-top: 10px;
+    font-size: 40px;
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 80px;
+}
+ul{
+    font-size: 45px;
+    color: red;
+    margin-left: 5%;
+}
+.btn{
+    background-color: blue;
+    border-radius: 25px;
+    font-size: 30px;
+    font-weight: bold;
+    width: 450px;
+    height: 100px;
+    margin: 10px 10px;
+
+}
+button{
+    width: 200px;
+    height: 80px;
+    margin: 5px 5px; 
+     margin-left: 10px;  
+     padding-left: 50px;
+    border-radius: 25px;
+    background-color: yellow;
+    font-size: 30px;
+
+}
+button:hover{
+    background-color:chocolate;
+    cursor: pointer;
+}
+.todays{
+    display: inline-flex;
+  
+    background-color: tan;
+    color: black;
+  
+    margin-left: 35%;
+
+}
